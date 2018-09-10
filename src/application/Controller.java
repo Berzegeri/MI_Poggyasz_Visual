@@ -152,7 +152,7 @@ public class Controller implements Initializable {
 		}
 		jobb.getChildren().removeAll(jobb.getChildren());
 		Color c[] = new Color[11];
-		c[0] = Color.GREY;
+		c[0] = Color.DARKGRAY;
 		c[1] = Color.GREEN;
 		c[2] = Color.LIGHTCORAL;
 		c[3] = Color.YELLOW;

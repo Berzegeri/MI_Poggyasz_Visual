@@ -16,7 +16,7 @@ public class Main extends Application {
 
 			root = FXMLLoader.load(getClass().getResource("Poggyasz.fxml"));
 			primaryStage.setTitle("Poggyasz");
-			Scene scene = new Scene(root, 600, 400);
+			Scene scene = new Scene(root, 800, 600);
 			primaryStage.setScene(scene);
 			primaryStage.setResizable(false);
 			primaryStage.show();
